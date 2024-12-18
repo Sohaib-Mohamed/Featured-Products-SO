@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+body{
+    height: 1000px;
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: rgb(145, 146, 148);
+}
+.fa-star{
+    color: rgba(250, 229, 0, 0.679);
+}
+.grey{
+      font-family: "Roboto Slab", serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+    }
+.hh{
+        text-align: center;
+    }
+.aa{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+.aaa{
+        color: black;
+        text-align: center;
+        padding: 20px;
+        text-decoration: none;
+        font-family: "Roboto Slab", serif;
+        font-optical-sizing: auto;
+        font-weight: 549;
+        font-style: normal;
+        
+    }
